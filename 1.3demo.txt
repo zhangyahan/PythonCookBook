@@ -1,0 +1,5 @@
+python hello world 
+python mv password echo 
+mkdir chomd chown chgrp 
+pymysql nost mouth 
+fecth leg head body python
